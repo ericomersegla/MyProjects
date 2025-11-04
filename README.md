@@ -22,6 +22,7 @@ Mettre à profit mon expertise en **actuariat**, **modélisation quantitative** 
 ---
 
 ## 💼 Expériences clés  
+- Admnistration des régimes de retraites  – Telus Santé
 - Auxiliaire d’enseignement – Université de Montréal  
 - Chef Service souscription & gestion des contrats – NSIA Vie Assurance Bénin  
 - Analyste actuariel – SANLAM Vie Bénin  
@@ -39,19 +40,16 @@ Dans ce dépôt **MyProjects**, vous trouverez plusieurs de mes travaux techniqu
 | **PROJECT_STRUCTURE_AT_TAUX D’INTERET** | Structure à terme des taux à termes | MATLAB |
 | **STRIPS ET COUVERTURE DE RISQUE** | Analyse des STRIPS et stratégies de couverture de taux | MATLAB |
 | **TD_Risque financier et risque climatique** | Étude de la corrélation entre risques financiers et risques climatiques | MATLAB, Python |
-| **Essai_Temps d’arrêt optimal_Longstaff et Schwartz** | Temps d’arrêt optimal pour options américaines, méthode Longstaff-Schwartz | MATLAB |
-| **Mon Article_2018** | Article académique (2018) sur modélisation actuarielle/financière | MATLAB / R |
+| **Essai_Temps d’arrêt optimal avec Longstaff et Schwartz** | Temps d’arrêt optimal pour options américaines, méthode Longstaff-Schwartz | MATLAB |
+| **Article académique (2018)** | Réflexion sur l'avenir de la modélisation actuarielle | MATLAB / R |
 
 ---
 
 ## ⚙️ Compétences techniques  
-**Langages / Outils** :  
-Python , MATLAB, R, SAS  
-**Bases de données** : SQL,   
-**Finance / Actuariat** : Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
-**Visualisation** : Power BI, Tableau, Matplotlib, Seaborn  
-**Bureautique avancée** : MS OFFICES avec Excel (VBA)  
-
+**Langages / Outils** :  Python, Stata, Matlab, R, SQL et SAS. 
+**Bureautique avancée** : MS office avec Excel (VBA)  
+**Finance / Actuariat /Modélisations** : Regressioins, Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
+  *… et bien d’autres à mentionner dans votre CV complet.*  
 ---
 
 ## 🌐 Liens utiles  
