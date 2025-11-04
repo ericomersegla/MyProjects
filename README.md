@@ -49,6 +49,7 @@ Dans ce dépôt **MyProjects**, vous trouverez plusieurs de mes travaux techniqu
 **Langages / Outils** :  Python, Stata, Matlab, R, SQL et SAS. 
 **Bureautique avancée** : MS office avec Excel (VBA)  
 **Finance / Actuariat /Modélisations** : Regressioins, Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
+  
   *… et bien d’autres à mentionner dans votre CV complet.*  
 ---
 
