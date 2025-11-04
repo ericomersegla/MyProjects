@@ -1,6 +1,3 @@
-# MyProjects
-# Bonjour, je suis **Kawo-Olouwa Eric-Omer SEGLA**
-
 🎓 **Actuaire & Analyste Quantitatif**  
 📍 Montréal, Québec, Canada  
 📧 [ericomers@gmail.com](mailto:ericomers@gmail.com)  
