@@ -1,5 +1,5 @@
 # MyProjects
-# 👋 Bonjour, je suis **Kawo-Olouwa Eric-Omer SEGLA**
+# Bonjour, je suis **Kawo-Olouwa Eric-Omer SEGLA**
 
 🎓 **Actuaire & Analyste Quantitatif | Finance Mathématique & Gestion des Risques**  
 📍 Montréal, Québec, Canada  
