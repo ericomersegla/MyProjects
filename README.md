@@ -30,7 +30,7 @@ Mettre à profit mon expertise en **actuariat**, **modélisation quantitative** 
 
 ---
 
-## 💻 Projets de modélisation et d’analyse  
+## 💻 Quelques projets de modélisations et d’analyses  
 Dans ce dépôt **MyProjects**, vous trouverez plusieurs de mes travaux techniques et académiques :
 
 | Projet | Objectif & Méthodes clés | Technologie / Langage |
@@ -58,4 +58,4 @@ Python , MATLAB, R, SAS
 - 🔗 [CV complet (PDF)](./CV_SEGLA_Kawo-Olouwa.pdf)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kawo-olouwa-eric-omer-segla-3592a6183)  
 - 🔗 Ce dépôt : [MyProjects](https://github.com/ericomersegla/MyProjects)  
-- 📂 Structure recommandée pour ce dépôt :  
+ 
