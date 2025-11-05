@@ -11,10 +11,10 @@ Mettre à profit mon expertise en **actuariat**, **modélisation quantitative** 
 ---
 
 ## 📚 Formation académique  
-- Maitrise en Finance Mathématique et Computationnelle – Université de Montréal  
+- M.Sc en Finance Mathématique et Computationnelle – Université de Montréal, CANADA  
 - Certificat en Gestion des Placements – HEC Paris  
-- Master en Sciences Actuarielles et Mathématiques Financières – Université d’Abomey-Calavi  
-- Licence en Économie Appliquée 
+- M.Sc en Sciences Actuarielles et Mathématiques Financières – Université d’Abomey-Calavi, BÉNIN   
+- Licence en Économie Appliquée - ENEAM, BÉNIN 
 
 ---
 
