@@ -29,7 +29,7 @@ Mettre à profit mon expertise en **actuariat**, **modélisation quantitative** 
 ---
 
 ## 💻 Quelques projets de modélisations et d’analyses  
-Dans ce dépôt **MyProjects**, vous trouverez plusieurs de mes travaux techniques et académiques :
+Dans ce dépôt **MyProjects**, des liens utiles ci-dessous, vous trouverez plusieurs de mes travaux techniques et académiques :
 
 | Projet | Objectif & Méthodes clés | Technologie / Langage |
 |--------|--------------------------|----------------------|
