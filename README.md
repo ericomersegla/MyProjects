@@ -34,17 +34,16 @@ Dans ce dépôt **MyProjects**, vous trouverez plusieurs de mes travaux techniqu
 | Projet | Objectif & Méthodes clés | Technologie / Langage |
 |--------|--------------------------|----------------------|
 | **PROJECT 1_ RISQUE CREDIT** | Modélisation du risque de crédit bancaire, méthodes quantitatives, scoring | MATLAB, Python |
-| **PROJECT_STRUCTURE_AT_TAUX D’INTERET** | Structure à terme des taux à termes | MATLAB |
-| **STRIPS ET COUVERTURE DE RISQUE** | Analyse des STRIPS et stratégies de couverture de taux | MATLAB |
+| **PROJECT_STRUCTURE_AT_TAUX D’INTERET** | Structure à terme des taux à termes | MATLAB,EXCEL |
+| **STRIPS ET COUVERTURE DE RISQUE** | Analyse des STRIPS et stratégies de couverture de taux | MATLAB, EXCEL |
 | **TD_Risque financier et risque climatique** | Étude de la corrélation entre risques financiers et risques climatiques | MATLAB, Python |
-| **Essai_Temps d’arrêt optimal avec Longstaff et Schwartz** | Temps d’arrêt optimal pour options américaines, méthode Longstaff-Schwartz | MATLAB |
-| **Article académique (2018)** | Réflexion sur l'avenir de la modélisation actuarielle | MATLAB / R |
+| **Essai_Temps d’arrêt optimal avec Longstaff et Schwartz** | Temps d’arrêt optimal pour options américaines, méthode Longstaff-Schwartz | MATLAB, EXCEL |
+| **Article académique (2018)** | Réflexion sur l'avenir de la modélisation actuarielle | --- |
 
 ---
 
 ## ⚙️ Compétences techniques  
-**- Langages / Outils** :  Python, Stata, Matlab, R, SQL et SAS 
-**- Bureautique avancée** : MS office avec Excel (VBA)  
+**- Langages / Outils** :  Python, Stata, Matlab, R, SQL, SAS et MS office avec Excel (VBA) 
 **- Finance / Actuariat /Modélisations** : Tarification, Provisionnement, Regressioins, Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
 **- Reglementation** : CIMA,IFRS 17, IFRS 9, Bâle I, II & III 
           
