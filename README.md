@@ -44,7 +44,7 @@ Dans ce dépôt **MyProjects**, des liens utiles ci-dessous, vous trouverez plus
 
 ## ⚙️ Compétences techniques  
 **- Langages / Outils** :  Python, Stata, Matlab, R, SQL, SAS et MS office avec Excel (VBA)                                                   
-**- Finance / Actuariat /Économetrie** : Tarification, Provisionnement, Analyses de données et Modélisations, Regressioins, Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
+**- Finance / Actuariat / Économétrie** : Tarification, Provisionnement, Analyses de données, Modélisations, Regressioins, Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
 **- Reglementation** : CIMA, IFRS 17, IFRS 9, Bâle (I, II & III) 
           
 ---
