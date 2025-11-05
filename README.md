@@ -43,10 +43,10 @@ Dans ce dépôt **MyProjects**, vous trouverez plusieurs de mes travaux techniqu
 ---
 
 ## ⚙️ Compétences techniques  
-**Langages / Outils** :  Python, Stata, Matlab, R, SQL et SAS 
-**Bureautique avancée** : MS office avec Excel (VBA)  
-**Finance / Actuariat /Modélisations** : Tarification, Provisionnement, Regressioins, Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
-**Reglementation** : CIMA,IFRS 17, IFRS 9, Bâle I, II & III 
+**- Langages / Outils** :  Python, Stata, Matlab, R, SQL et SAS 
+**- Bureautique avancée** : MS office avec Excel (VBA)  
+**- Finance / Actuariat /Modélisations** : Tarification, Provisionnement, Regressioins, Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
+**- Reglementation** : CIMA,IFRS 17, IFRS 9, Bâle I, II & III 
           
 ---
 
